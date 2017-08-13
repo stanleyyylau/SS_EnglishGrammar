@@ -11,8 +11,17 @@
 http://www.lizhi.fm/2534060/
 <p>
 
+**五种简单的基本类型**
 
-有声书所有内容来源于《语法俱乐部》（GitBook 电子书[外链]( https://zhusandiao.gitbooks.io/grammar-club/content/)，豆瓣读书[外链](https://book.douban.com/subject/1014914/)），所有版权归原作者旋元佑老师所有。所有发布有声内容均用于个人学习、研究或者欣赏为目的，请勿进行转载或用于营利。
+```
+S: Subject V: Verb O: Object C: Complement
+
+1. S + V         John Smith died.
+2. S + V + O     John Smith killed a enemy soldier.
+3. S + V + C     John Smith is a soldier.
+4. S + V + O + O John Smith's father gave him a dog.
+5. S + V + O + C John Smith's father called him a dog.
+```
 
 <p align="center">
   <a href="http://www.lizhi.fm/2534060/">
@@ -23,3 +32,5 @@ http://www.lizhi.fm/2534060/
   <small>点击打开 Web 播放器</small>
 </p>
 <br/>
+
+有声书所有内容来源于《语法俱乐部》（GitBook 电子书[外链]( https://zhusandiao.gitbooks.io/grammar-club/content/)，豆瓣读书[外链](https://book.douban.com/subject/1014914/)），所有版权归原作者旋元佑老师所有。所有发布有声内容均用于个人学习、研究或者欣赏为目的，请勿进行转载或用于营利。
